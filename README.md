@@ -1,0 +1,4 @@
+## Installation
+### Windows
+### Linux
+### MacOS
